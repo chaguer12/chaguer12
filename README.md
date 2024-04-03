@@ -8,7 +8,7 @@ I have been actively engaged in learning programming due to my profound interest
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [chag.med.amine@gmail.com](mailto:chag.med.amine@gmail.com)
-* 🧠  I'm learning laravel
+* 🧠  I'm learning React
 * ⚡  I do make music on my freetime
 
 ### Skills
